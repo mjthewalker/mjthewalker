@@ -2,24 +2,21 @@
   <img src="https://user-images.githubusercontent.com/XXX/your-banner.gif" alt="banner" style="width: 100%; border-radius: 10px;" />
 </div>
 
-<h1 align="center" style="color: #00c9ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Welcome to My World! 🌌
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+World!+🌌;I'm+Mohnish+Hemanth+Kumar;Developer+%7C+Competitive+Programmer+%7C+ML+Enthusiast" alt="Typing SVG" />
 </h1>
-<h2 align="center" style="color: #ffdd00; font-family: 'Lucida Console', Courier, monospace;">
-  👋 Hey, I’m <span style="color: #00d4ff;">Mohnish Hemanth Kumar</span>
-</h2>
-<p align="center" style="color: #e0e0e0; font-size: 18px;">
-  💻 <b>Crafting Code</b>, <b>Solving Problems</b>, and <b>Exploring AI</b>.<br>
-  🌟 <b>Developer</b> | 🏆 <b>Competitive Programmer</b> | 🤖 <b>ML Enthusiast</b>
-</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00d4ff&center=true&vCenter=true&lines=Welcome+to+My+Profile!;Code+Craftsman+%7C+Problem+Solver;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
-</div>
+<p align="center" style="font-size: 20px; color: #ffdd00; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  🚀 Turning ideas into reality through code.<br>
+  🌟 Crafting smarter solutions with AI & ML.<br>
+  🏆 Competing, creating, and continuously learning.
+</p>
 
 ---
 
-<h2 align="center" style="color: #00d4ff; font-family: 'Trebuchet MS', sans-serif;">💻 Tech I Love</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Tech+I+Love+%F0%9F%92%BB" alt="Typing SVG" />
+</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
@@ -34,7 +31,9 @@
 
 ---
 
-<h2 align="center" style="color: #00d4ff; font-family: 'Trebuchet MS', sans-serif;">📊 My GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=%F0%9F%93%88+GitHub+Stats+%F0%9F%93%88" alt="Typing SVG" />
+</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mjthewalker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=ffdd00" alt="GitHub Stats" style="width: 48%; border-radius: 10px;" />
@@ -43,7 +42,9 @@
 
 ---
 
-<h2 align="center" style="color: #00d4ff; font-family: 'Trebuchet MS', sans-serif;">🔥 Coding Streak</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=🔥+Coding+Streak+🔥" alt="Typing SVG" />
+</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mjthewalker&theme=tokyonight&hide_border=true&background=0d1117&stroke=ffffff&ring=ffdd00&fire=ffdd00&currStreakLabel=00c9ff" alt="Streak Stats" style="width: 60%; border-radius: 10px;" />
@@ -51,7 +52,9 @@
 
 ---
 
-<h2 align="center" style="color: #00d4ff; font-family: 'Trebuchet MS', sans-serif;">📖 Inspiring Dev Quotes</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=%F0%9F%93%96+Inspiring+Dev+Quotes+%F0%9F%93%96" alt="Typing SVG" />
+</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="border-radius: 10px;" />
@@ -59,9 +62,11 @@
 
 ---
 
-<h2 align="center" style="color: #00d4ff; font-family: 'Trebuchet MS', sans-serif;">🌐 Let's Connect</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=%F0%9F%8C%90+Let's+Connect+%F0%9F%8C%90" alt="Typing SVG" />
+</h2>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/mjthewalker" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -71,11 +76,13 @@
   <a href="https://twitter.com/mjthewalker" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</div>
+</p>
 
 ---
 
-<h2 align="center" style="color: #00d4ff; font-family: 'Trebuchet MS', sans-serif;">🎮 Fun & Games</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=🎮+Fun+%26+Games+🎮" alt="Typing SVG" />
+</h2>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes" style="border-radius: 10px;" />
