@@ -1,6 +1,6 @@
 <h2 align="left">Hey 👋! This is Mohnish Hemanth Kumar - Application Developer, Competitive Programmer and ML enthusiast</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mani5h-agarwal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mjthewalker&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 <br clear="both">
 <div align="center"> 
