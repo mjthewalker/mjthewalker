@@ -3,19 +3,19 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+World!+🌌;I'm+Mohnish+Hemanth+Kumar;Developer+%7C+Competitive+Programmer+%7C+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=7F00FF&background=0D111700&center=true&vCenter=true&width=800&lines=Hello+World!+🌌;I'm+Mohnish+Hemanth+Kumar;Developer+%7C+Programmer+%7C+ML+Enthusiast;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </h1>
 
-<p align="center" style="font-size: 20px; color: #ffdd00; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🚀 Turning ideas into reality through code.<br>
-  🌟 Crafting smarter solutions with AI & ML.<br>
-  🏆 Competing, creating, and continuously learning.
+<p align="center" style="font-size: 18px; color: #a29bfe; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  🚀 Transforming ideas into impactful solutions.<br>
+  🌟 Enthusiast of futuristic technologies: AI, ML, and Beyond.<br>
+  💻 Competitive Programmer | Creative Developer.
 </p>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Tech+I+Love+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C5CE7&background=0D111700&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Technologies+I+Work+With+%F0%9F%92%BB" alt="Typing SVG" />
 </h2>
 
 <div align="center">
@@ -32,38 +32,38 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=%F0%9F%93%88+GitHub+Stats+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=81ECEC&background=0D111700&center=true&vCenter=true&width=600&lines=%F0%9F%93%88+GitHub+Stats+%F0%9F%93%88" alt="Typing SVG" />
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mjthewalker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=ffdd00" alt="GitHub Stats" style="width: 48%; border-radius: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjthewalker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=ffdd00" alt="Top Languages" style="width: 48%; border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mjthewalker&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7f00ff&icon_color=81ecec" alt="GitHub Stats" style="width: 48%; border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjthewalker&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7f00ff&icon_color=81ecec" alt="Top Languages" style="width: 48%; border-radius: 10px;" />
 </div>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=🔥+Coding+Streak+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E84393&background=0D111700&center=true&vCenter=true&width=600&lines=🔥+My+Coding+Streak+🔥" alt="Typing SVG" />
 </h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mjthewalker&theme=tokyonight&hide_border=true&background=0d1117&stroke=ffffff&ring=ffdd00&fire=ffdd00&currStreakLabel=00c9ff" alt="Streak Stats" style="width: 60%; border-radius: 10px;" />
+  <img src="https://streak-stats.demolab.com?user=mjthewalker&theme=radical&hide_border=true&background=0d1117&stroke=ffffff&ring=7f00ff&fire=81ecec&currStreakLabel=81ecec" alt="Streak Stats" style="width: 60%; border-radius: 10px;" />
 </div>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=%F0%9F%93%96+Inspiring+Dev+Quotes+%F0%9F%93%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CEC9&background=0D111700&center=true&vCenter=true&width=600&lines=%F0%9F%93%96+Inspiring+Dev+Quotes+%F0%9F%93%96" alt="Typing SVG" />
 </h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="border-radius: 10px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" style="border-radius: 10px;" />
 </div>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=%F0%9F%8C%90+Let's+Connect+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CEC9&background=0D111700&center=true&vCenter=true&width=600&lines=%F0%9F%8C%90+Let's+Connect+%F0%9F%8C%90" alt="Typing SVG" />
 </h2>
 
 <p align="center">
@@ -81,9 +81,9 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=🎮+Fun+%26+Games+🎮" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=81ECEC&background=0D111700&center=true&vCenter=true&width=600&lines=🎮+A+Touch+of+Fun+🎮" alt="Typing SVG" />
 </h2>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes" style="border-radius: 10px;" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes" style="border-radius: 10px;" />
 </div>
