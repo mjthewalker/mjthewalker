@@ -18,42 +18,8 @@
   💻 A competitive programmer with a passion for solving complex problems and building cool things from scratch.
 </p>
 
----
 
-<h2 align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0984E3&background=0D111700&center=true&vCenter=true&width=600&lines=🚀+Professional+Experience+🚀" alt="Typing SVG" />
-</h2>
-
-<div align="center" style="padding: 10px; max-width: 800px; margin: auto;">
-  <details style="margin-bottom: 10px; background-color: #161b22; border-radius: 10px; padding: 15px; border: 1px solid #30363d; cursor: pointer;">
-    <summary style="font-size: 18px; color: #81ecec; font-weight: bold;">App Developer @ Robosoft Technologies (Industry Project)</summary>
-    <div style="padding-top: 10px; font-size: 16px; color: #dfe6e9;">
-      <p><i>🗓️ March 2025 - Present</i></p>
-      <ul>
-        <li>Involved in the active development of <b>Solmelu</b>, an application to help travellers in Dakshina Kannada curate seamless travel experiences.</li>
-        <li>Developing the "Channels" feature with in-app notifications to boost user engagement through real-time updates, offers, and vendor-user interaction.</li>
-        <li><b>Technologies:</b> Dart, Flutter, BLoC, Figma.</li>
-      </ul>
-    </div>
-  </details>
-
-  <details style="margin-bottom: 10px; background-color: #161b22; border-radius: 10px; padding: 15px; border: 1px solid #30363d; cursor: pointer;">
-    <summary style="font-size: 18px; color: #81ecec; font-weight: bold;">App Developer @ IRIS, NITK</summary>
-    <div style="padding-top: 10px; font-size: 16px; color: #dfe6e9;">
-      <p><i>🗓️ November 2024 - Present</i></p>
-      <ul>
-        <li>Contributing to <b>IRIS</b>, the official ERP mobile app of NITK with over <b>17,000+ downloads</b>.</li>
-        <li>Developed features for the IRIS Forms and Faculty modules, while debugging and maintaining the app using Domain Driven Design principles.</li>
-        <li>Worked on a large-scale codebase revamp to standardize components and enhance user experience.</li>
-        <li><b>Technologies:</b> Dart, Flutter, BLoC.</li>
-      </ul>
-    </div>
-  </details>
-</div>
-
----
-
-<h2 align="center" style="margin-top: 30px;">
+  <h2 align="center" style="margin-top: 30px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E84393&background=0D111700&center=true&vCenter=true&width=600&lines=🛠️+Featured+Projects+🛠️" alt="Typing SVG" />
 </h2>
 
@@ -62,12 +28,9 @@
     <summary style="font-size: 18px; color: #81ecec; font-weight: bold;">Air Cipher | Offline P2P Communication App</summary>
     <div style="padding-top: 10px; font-size: 16px; color: #dfe6e9;">
       <p><i>🗓️ May 2025 – July 2025</i></p>
-      <ul>
-        <li>Developed a privacy-first, offline P2P communication app for real-time voice calls and messaging using <b>WebRTC</b>.</li>
-        <li>Implemented robust end-to-end encryption with AES-256-GCM and secure key exchange.</li>
-        <li>Engineered a pure ICE negotiation protocol, eliminating the need for STUN/TURN servers.</li>
-        <li><b>Technologies:</b> Flutter, Dart, WebRTC.</li>
-      </ul>
+      <p>
+        Developed <b>Air Cipher</b>, a privacy-first, offline peer-to-peer communication app for real-time voice calls and messaging using <b>WebRTC</b>. The application ensures complete privacy through robust end-to-end encryption (AES-256-GCM) and a secure key exchange. A key innovation is its pure ICE negotiation protocol, which establishes direct peer connections without needing external STUN/TURN servers, making it truly serverless. The core technologies used were <b>Flutter</b>, <b>Dart</b>, and <b>WebRTC</b>.
+      </p>
     </div>
   </details>
   
@@ -75,12 +38,9 @@
     <summary style="font-size: 18px; color: #81ecec; font-weight: bold;">GPU-Buddy | Remote ML Workload Platform</summary>
     <div style="padding-top: 10px; font-size: 16px; color: #dfe6e9;">
       <p><i>🗓️ December 2024 - March 2025</i></p>
-      <ul>
-        <li>Built a platform for remote execution of Python ML workloads to utilize shared GPU resources efficiently.</li>
-        <li>Developed an asynchronous C++ client-server system using <b>gRPC</b> with server-side streaming for multi-client GPU sharing.</li>
-        <li>Integrated <b>NVIDIA MPS</b> and containerized the entire stack with <b>Docker</b> for concurrent execution and reproducibility.</li>
-        <li><b>Technologies:</b> C++, gRPC, Protocol Buffers, Docker, NVIDIA MPS.</li>
-      </ul>
+      <p>
+        <b>GPU-Buddy</b> is a remote execution platform designed to efficiently manage and utilize shared GPU resources for Python ML workloads, bypassing local hardware limitations. I developed its asynchronous C++ client-server architecture using <b>gRPC</b> with server-side streaming to enable simultaneous GPU access for multiple clients. The platform integrates <b>NVIDIA MPS</b> for concurrent workload execution and is fully containerized with <b>Docker</b> to ensure a consistent setup. The tech stack includes <b>C++</b>, <b>gRPC</b>, <b>Protocol Buffers</b>, <b>Docker</b>, and <b>NVIDIA MPS</b>.
+      </p>
     </div>
   </details>
 </div>
